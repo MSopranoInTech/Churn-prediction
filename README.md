@@ -14,7 +14,7 @@ We started of with a logistic regression model as a baseline model. Following th
 ## Result and Inference
 The Random forest model performed best, predicting with a recall of 75%, 15% more than th baseline model. 
 
-## Files in src and it's use
+## Files
 
 * model.py - Compares the performance of models and stores the best model in pickle format
 
